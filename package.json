@@ -1,0 +1,26 @@
+{
+  "name": "rosstalk",
+  "version": "1.0.0",
+  "description": "A RossTalk implementation in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMGTech/rosstalk.git"
+  },
+  "keywords": [
+    "rosstalk",
+    "ross",
+    "talk",
+    "video",
+    "switcher"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LMGTech/rosstalk/issues"
+  },
+  "homepage": "https://github.com/LMGTech/rosstalk#readme"
+}
