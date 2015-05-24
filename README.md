@@ -2,6 +2,8 @@
 
 A RossTalk implementation in node.js
 
+This package is made to control Ross Carbonite and Ross Vision video switchers programmatically.
+
 ### Installation
 
 ```bash
