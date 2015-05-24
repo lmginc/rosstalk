@@ -1,6 +1,6 @@
 {
   "name": "rosstalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A RossTalk implementation in node.js",
   "main": "index.js",
   "scripts": {
