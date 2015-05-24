@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/LMGTech/rosstalk/issues"
   },
-  "homepage": "https://github.com/LMGTech/rosstalk#readme"
+  "homepage": "https://github.com/LMGTech/rosstalk#readme",
+  "devDependencies": {
+    "sinon": "^1.14.1"
+  }
 }
