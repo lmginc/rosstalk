@@ -44,7 +44,7 @@ describe('Rosstalk', function(){
 
       var buff = write.lastCall.args;
 
-      assert.equal('MLEAUTO 1\r\n', buff.toString());
+      assert.equal('MEAUTO 1\r\n', buff.toString());
     });
 
     it('should send commands to the tcp socket for transitioning MLE2 with a cut', function(){
@@ -53,7 +53,7 @@ describe('Rosstalk', function(){
 
       var buff = write.lastCall.args;
 
-      assert.equal('MLECUT 2\r\n', buff.toString());
+      assert.equal('MECUT 2\r\n', buff.toString());
     });
 
     it('should send commands to the tcp socket for firing a custom control, 101', function(){
